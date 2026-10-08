@@ -190,7 +190,7 @@
   ],
   "interstitials": [
     {
-      "order": 1,
+      "order": 17,
       "gameId": "paper-doll",
       "repeat": 1,
       "enabled": true
@@ -286,9 +286,9 @@
       "enabled": true
     },
     {
-      "order": 17,
+      "order": 1,
       "gameId": "high-heels",
-      "repeat": 1,
+      "repeat": 3,
       "enabled": true
     }
   ]
