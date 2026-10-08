@@ -164,7 +164,7 @@
       "interstitialImagePortrait": "interstitials/portrait/hero-transform.png",
       "interstitialImageLandscape": "interstitials/landscape/hero-transform.png",
       "enabled": true
-    }
+    },
     {
       "id": "hair-challenge",
       "title": "Hair Challenge Makeover Stylist Rush",
@@ -189,22 +189,107 @@
     }
   ],
   "interstitials": [
-    { "order": 1, "gameId": "paper-doll", "repeat": 1, "enabled": true },
-    { "order": 2, "gameId": "anime-doll", "repeat": 1, "enabled": true },
-    { "order": 3, "gameId": "build-queen", "repeat": 1, "enabled": true },
-    { "order": 4, "gameId": "color-beatbox", "repeat": 1, "enabled": true },
-    { "order": 5, "gameId": "toilet-rush", "repeat": 1, "enabled": true },
-    { "order": 6, "gameId": "merge-monster", "repeat": 1, "enabled": true },
-    { "order": 7, "gameId": "asylum-horror", "repeat": 1, "enabled": true },
-    { "order": 8, "gameId": "quarantine-zombie", "repeat": 1, "enabled": true },
-    { "order": 9, "gameId": "snake-rush", "repeat": 1, "enabled": true },
-    { "order": 10, "gameId": "color-roll", "repeat": 1, "enabled": true },
-    { "order": 11, "gameId": "brainrot-drop", "repeat": 1, "enabled": true },
-    { "order": 12, "gameId": "sky-roller", "repeat": 1, "enabled": true },
-    { "order": 13, "gameId": "pokey-ball", "repeat": 1, "enabled": true },
-    { "order": 14, "gameId": "ragdoll-knockout", "repeat": 1, "enabled": true },
-    { "order": 15, "gameId": "hero-transform", "repeat": 1, "enabled": true }
-    { "order": 16, "gameId": "hair-challenge", "repeat": 1, "enabled": true },
-    { "order": 17, "gameId": "high-heels", "repeat": 1, "enabled": true }
+    {
+      "order": 1,
+      "gameId": "paper-doll",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 2,
+      "gameId": "anime-doll",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 3,
+      "gameId": "build-queen",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 4,
+      "gameId": "color-beatbox",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 5,
+      "gameId": "toilet-rush",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 6,
+      "gameId": "merge-monster",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 7,
+      "gameId": "asylum-horror",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 8,
+      "gameId": "quarantine-zombie",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 9,
+      "gameId": "snake-rush",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 10,
+      "gameId": "color-roll",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 11,
+      "gameId": "brainrot-drop",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 12,
+      "gameId": "sky-roller",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 13,
+      "gameId": "pokey-ball",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 14,
+      "gameId": "ragdoll-knockout",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 15,
+      "gameId": "hero-transform",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 16,
+      "gameId": "hair-challenge",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 17,
+      "gameId": "high-heels",
+      "repeat": 1,
+      "enabled": true
+    }
   ]
 }
