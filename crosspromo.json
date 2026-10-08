@@ -165,6 +165,28 @@
       "interstitialImageLandscape": "interstitials/landscape/hero-transform.png",
       "enabled": true
     }
+    {
+      "id": "hair-challenge",
+      "title": "Hair Challenge Makeover Stylist Rush",
+      "packageName": "com.appstech.perfect.longhair.rush.walk.high.challange",
+      "asin": "B095YYJ6Z5",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B095YYJ6Z5",
+      "bannerImage": "banners/hair-challenge.png",
+      "interstitialImagePortrait": "interstitials/portrait/hair-challenge.png",
+      "interstitialImageLandscape": "interstitials/landscape/hair-challenge.png",
+      "enabled": true
+    },
+    {
+      "id": "high-heels",
+      "title": "High Heels Stack Run Fashion Race 3D",
+      "packageName": "com.perfect.stack.shiny.shoes.walking",
+      "asin": "B08YJDB6SV",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B08YJDB6SV",
+      "bannerImage": "banners/high-heels.png",
+      "interstitialImagePortrait": "interstitials/portrait/high-heels.png",
+      "interstitialImageLandscape": "interstitials/landscape/high-heels.png",
+      "enabled": true
+    }
   ],
   "interstitials": [
     { "order": 1, "gameId": "paper-doll", "repeat": 1, "enabled": true },
@@ -182,5 +204,7 @@
     { "order": 13, "gameId": "pokey-ball", "repeat": 1, "enabled": true },
     { "order": 14, "gameId": "ragdoll-knockout", "repeat": 1, "enabled": true },
     { "order": 15, "gameId": "hero-transform", "repeat": 1, "enabled": true }
+    { "order": 16, "gameId": "hair-challenge", "repeat": 1, "enabled": true },
+    { "order": 17, "gameId": "high-heels", "repeat": 1, "enabled": true }
   ]
 }
