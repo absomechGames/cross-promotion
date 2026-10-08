@@ -53,7 +53,7 @@
       "bannerImage": "banners/toilet-rush.png",
       "interstitialImagePortrait": "interstitials/portrait/toilet-rush.png",
       "interstitialImageLandscape": "interstitials/landscape/toilet-rush.png",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "merge-monster",
@@ -64,7 +64,7 @@
       "bannerImage": "banners/merge-monster.png",
       "interstitialImagePortrait": "interstitials/portrait/merge-monster.png",
       "interstitialImageLandscape": "interstitials/landscape/merge-monster.png",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "asylum-horror",
@@ -75,7 +75,7 @@
       "bannerImage": "banners/asylum-horror.png",
       "interstitialImagePortrait": "interstitials/portrait/asylum-horror.png",
       "interstitialImageLandscape": "interstitials/landscape/asylum-horror.png",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "quarantine-zombie",
@@ -97,7 +97,7 @@
       "bannerImage": "banners/snake-rush.png",
       "interstitialImagePortrait": "interstitials/portrait/snake-rush.png",
       "interstitialImageLandscape": "interstitials/landscape/snake-rush.png",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "color-roll",
@@ -108,7 +108,7 @@
       "bannerImage": "banners/color-roll.png",
       "interstitialImagePortrait": "interstitials/portrait/color-roll.png",
       "interstitialImageLandscape": "interstitials/landscape/color-roll.png",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "brainrot-drop",
@@ -141,7 +141,7 @@
       "bannerImage": "banners/pokey-ball.png",
       "interstitialImagePortrait": "interstitials/portrait/pokey-ball.png",
       "interstitialImageLandscape": "interstitials/landscape/pokey-ball.png",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "ragdoll-knockout",
@@ -163,7 +163,7 @@
       "bannerImage": "banners/hero-transform.png",
       "interstitialImagePortrait": "interstitials/portrait/hero-transform.png",
       "interstitialImageLandscape": "interstitials/landscape/hero-transform.png",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "hair-challenge",
@@ -217,7 +217,7 @@
       "order": 5,
       "gameId": "toilet-rush",
       "repeat": 1,
-      "enabled": true
+      "enabled": false
     },
     {
       "order": 6,
@@ -229,7 +229,7 @@
       "order": 7,
       "gameId": "asylum-horror",
       "repeat": 1,
-      "enabled": true
+      "enabled": false
     },
     {
       "order": 8,
@@ -241,19 +241,19 @@
       "order": 9,
       "gameId": "snake-rush",
       "repeat": 1,
-      "enabled": true
+      "enabled": false
     },
     {
       "order": 10,
       "gameId": "color-roll",
       "repeat": 1,
-      "enabled": true
+      "enabled": false
     },
     {
       "order": 11,
       "gameId": "brainrot-drop",
       "repeat": 1,
-      "enabled": true
+      "enabled": false
     },
     {
       "order": 12,
@@ -265,7 +265,7 @@
       "order": 13,
       "gameId": "pokey-ball",
       "repeat": 1,
-      "enabled": true
+      "enabled": false
     },
     {
       "order": 14,
@@ -277,7 +277,7 @@
       "order": 15,
       "gameId": "hero-transform",
       "repeat": 1,
-      "enabled": true
+      "enabled": false
     },
     {
       "order": 16,
