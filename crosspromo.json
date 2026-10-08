@@ -1,1 +1,186 @@
-
+{
+  "games": [
+    {
+      "id": "paper-doll",
+      "title": "Paper Doll Fashion Dress Up",
+      "packageName": "com.appstech.paperdoll.fashion.dressup.game",
+      "asin": "B0D69R3M9R",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0D69R3M9R",
+      "bannerImage": "banners/paper-doll.png",
+      "interstitialImagePortrait": "interstitials/portrait/paper-doll.png",
+      "interstitialImageLandscape": "interstitials/landscape/paper-doll.png",
+      "enabled": true
+    },
+    {
+      "id": "anime-doll",
+      "title": "Anime Dress Up Makeover Doll",
+      "packageName": "com.appstech.amine.fashion.doll.dressup.game",
+      "asin": "B0D6BKQQ5N",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0D6BKQQ5N",
+      "bannerImage": "banners/anime-doll.png",
+      "interstitialImagePortrait": "interstitials/portrait/anime-doll.png",
+      "interstitialImageLandscape": "interstitials/landscape/anime-doll.png",
+      "enabled": true
+    },
+    {
+      "id": "build-queen",
+      "title": "Build a Queen Fashion Dress Up",
+      "packageName": "com.appstech.pretty.dress.run.beauty.body.race",
+      "asin": "B09DGN9GKZ",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B09DGN9GKZ",
+      "bannerImage": "banners/build-queen.png",
+      "interstitialImagePortrait": "interstitials/portrait/build-queen.png",
+      "interstitialImageLandscape": "interstitials/landscape/build-queen.png",
+      "enabled": true
+    },
+    {
+      "id": "color-beatbox",
+      "title": "Color Page Beatbox Master",
+      "packageName": "com.appstech.monster.coloring.paint.master.draw.painting",
+      "asin": "B0DYDDPX5H",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0DYDDPX5H",
+      "bannerImage": "banners/color-beatbox.png",
+      "interstitialImagePortrait": "interstitials/portrait/color-beatbox.png",
+      "interstitialImageLandscape": "interstitials/landscape/color-beatbox.png",
+      "enabled": true
+    },
+    {
+      "id": "toilet-rush",
+      "title": "Toilet Rush Escape Draw Puzzle",
+      "packageName": "com.appstech.toilet.rush.race.drawpuzzle.rescue.puzzle",
+      "asin": "B0G3B8T3T6",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0G3B8T3T6",
+      "bannerImage": "banners/toilet-rush.png",
+      "interstitialImagePortrait": "interstitials/portrait/toilet-rush.png",
+      "interstitialImageLandscape": "interstitials/landscape/toilet-rush.png",
+      "enabled": true
+    },
+    {
+      "id": "merge-monster",
+      "title": "Merge Master Brainrot Monster Battle",
+      "packageName": "com.appstech.brainrot.mergemaster.monster.battle.game",
+      "asin": "B0FGHV5HSF",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0FGHV5HSF",
+      "bannerImage": "banners/merge-monster.png",
+      "interstitialImagePortrait": "interstitials/portrait/merge-monster.png",
+      "interstitialImageLandscape": "interstitials/landscape/merge-monster.png",
+      "enabled": true
+    },
+    {
+      "id": "asylum-horror",
+      "title": "Asylum Hospital Horror Escape",
+      "packageName": "com.appstech.asylum.hospital.horror.survival.escape.adventure.game",
+      "asin": "B0FLW2CHNK",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0FLW2CHNK",
+      "bannerImage": "banners/asylum-horror.png",
+      "interstitialImagePortrait": "interstitials/portrait/asylum-horror.png",
+      "interstitialImageLandscape": "interstitials/landscape/asylum-horror.png",
+      "enabled": true
+    },
+    {
+      "id": "quarantine-zombie",
+      "title": "Quarantine Zone Zombie Survival",
+      "packageName": "com.appstech.quarantine.zone.zombie.survival.challenge",
+      "asin": "B0FX35G13Y",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0FX35G13Y",
+      "bannerImage": "banners/quarantine-zombie.png",
+      "interstitialImagePortrait": "interstitials/portrait/quarantine-zombie.png",
+      "interstitialImageLandscape": "interstitials/landscape/quarantine-zombie.png",
+      "enabled": true
+    },
+    {
+      "id": "snake-rush",
+      "title": "Snake Rush 3D Slither Run",
+      "packageName": "com.appstech.snakeattack.slither.run.race.game",
+      "asin": "B0G3MZHMXH",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0G3MZHMXH",
+      "bannerImage": "banners/snake-rush.png",
+      "interstitialImagePortrait": "interstitials/portrait/snake-rush.png",
+      "interstitialImageLandscape": "interstitials/landscape/snake-rush.png",
+      "enabled": true
+    },
+    {
+      "id": "color-roll",
+      "title": "Color Match Roll 3D",
+      "packageName": "com.appstech.color.flip.rolling.roll.puzzle.game",
+      "asin": "B08HTNYYJN",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B08HTNYYJN",
+      "bannerImage": "banners/color-roll.png",
+      "interstitialImagePortrait": "interstitials/portrait/color-roll.png",
+      "interstitialImageLandscape": "interstitials/landscape/color-roll.png",
+      "enabled": true
+    },
+    {
+      "id": "brainrot-drop",
+      "title": "Brainrot Merge Fellas Drop",
+      "packageName": "com.appstech.spranky.maker.match.master.merge.puzzle",
+      "asin": "B0DPR8XQPN",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0DPR8XQPN",
+      "bannerImage": "banners/brainrot-drop.png",
+      "interstitialImagePortrait": "interstitials/portrait/brainrot-drop.png",
+      "interstitialImageLandscape": "interstitials/landscape/brainrot-drop.png",
+      "enabled": true
+    },
+    {
+      "id": "sky-roller",
+      "title": "Sky Roller 3D Skate Master",
+      "packageName": "com.appstech.sky.rush.skater.ice.roller.skating",
+      "asin": "B082FLCHK3",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B082FLCHK3",
+      "bannerImage": "banners/sky-roller.png",
+      "interstitialImagePortrait": "interstitials/portrait/sky-roller.png",
+      "interstitialImageLandscape": "interstitials/landscape/sky-roller.png",
+      "enabled": true
+    },
+    {
+      "id": "pokey-ball",
+      "title": "Pokey Ball Rush",
+      "packageName": "com.appstech.flick.ball.smash.jumping.throwing.game",
+      "asin": "B08346NQZN",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B08346NQZN",
+      "bannerImage": "banners/pokey-ball.png",
+      "interstitialImagePortrait": "interstitials/portrait/pokey-ball.png",
+      "interstitialImageLandscape": "interstitials/landscape/pokey-ball.png",
+      "enabled": true
+    },
+    {
+      "id": "ragdoll-knockout",
+      "title": "Annoying Ragdoll Knockout Master",
+      "packageName": "com.appstech.annoying.uncle.punch.smash.hero.game",
+      "asin": "B0F99VQFGC",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0F99VQFGC",
+      "bannerImage": "banners/ragdoll-knockout.png",
+      "interstitialImagePortrait": "interstitials/portrait/ragdoll-knockout.png",
+      "interstitialImageLandscape": "interstitials/landscape/ragdoll-knockout.png",
+      "enabled": true
+    },
+    {
+      "id": "hero-transform",
+      "title": "Hero Transform Race 3D Shifting",
+      "packageName": "com.appstech.hero.shift.master.transform.race",
+      "asin": "B0D96J86C2",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0D96J86C2",
+      "bannerImage": "banners/hero-transform.png",
+      "interstitialImagePortrait": "interstitials/portrait/hero-transform.png",
+      "interstitialImageLandscape": "interstitials/landscape/hero-transform.png",
+      "enabled": true
+    }
+  ],
+  "interstitials": [
+    { "order": 1, "gameId": "paper-doll", "repeat": 1, "enabled": true },
+    { "order": 2, "gameId": "anime-doll", "repeat": 1, "enabled": true },
+    { "order": 3, "gameId": "build-queen", "repeat": 1, "enabled": true },
+    { "order": 4, "gameId": "color-beatbox", "repeat": 1, "enabled": true },
+    { "order": 5, "gameId": "toilet-rush", "repeat": 1, "enabled": true },
+    { "order": 6, "gameId": "merge-monster", "repeat": 1, "enabled": true },
+    { "order": 7, "gameId": "asylum-horror", "repeat": 1, "enabled": true },
+    { "order": 8, "gameId": "quarantine-zombie", "repeat": 1, "enabled": true },
+    { "order": 9, "gameId": "snake-rush", "repeat": 1, "enabled": true },
+    { "order": 10, "gameId": "color-roll", "repeat": 1, "enabled": true },
+    { "order": 11, "gameId": "brainrot-drop", "repeat": 1, "enabled": true },
+    { "order": 12, "gameId": "sky-roller", "repeat": 1, "enabled": true },
+    { "order": 13, "gameId": "pokey-ball", "repeat": 1, "enabled": true },
+    { "order": 14, "gameId": "ragdoll-knockout", "repeat": 1, "enabled": true },
+    { "order": 15, "gameId": "hero-transform", "repeat": 1, "enabled": true }
+  ]
+}
