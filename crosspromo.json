@@ -53,7 +53,7 @@
       "bannerImage": "banners/toilet-rush.png",
       "interstitialImagePortrait": "interstitials/portrait/toilet-rush.png",
       "interstitialImageLandscape": "interstitials/landscape/toilet-rush.png",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "merge-monster",
@@ -64,7 +64,7 @@
       "bannerImage": "banners/merge-monster.png",
       "interstitialImagePortrait": "interstitials/portrait/merge-monster.png",
       "interstitialImageLandscape": "interstitials/landscape/merge-monster.png",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "asylum-horror",
@@ -75,7 +75,7 @@
       "bannerImage": "banners/asylum-horror.png",
       "interstitialImagePortrait": "interstitials/portrait/asylum-horror.png",
       "interstitialImageLandscape": "interstitials/landscape/asylum-horror.png",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "quarantine-zombie",
@@ -97,7 +97,7 @@
       "bannerImage": "banners/snake-rush.png",
       "interstitialImagePortrait": "interstitials/portrait/snake-rush.png",
       "interstitialImageLandscape": "interstitials/landscape/snake-rush.png",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "color-roll",
@@ -108,7 +108,7 @@
       "bannerImage": "banners/color-roll.png",
       "interstitialImagePortrait": "interstitials/portrait/color-roll.png",
       "interstitialImageLandscape": "interstitials/landscape/color-roll.png",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "brainrot-drop",
@@ -141,7 +141,7 @@
       "bannerImage": "banners/pokey-ball.png",
       "interstitialImagePortrait": "interstitials/portrait/pokey-ball.png",
       "interstitialImageLandscape": "interstitials/landscape/pokey-ball.png",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "ragdoll-knockout",
@@ -163,7 +163,7 @@
       "bannerImage": "banners/hero-transform.png",
       "interstitialImagePortrait": "interstitials/portrait/hero-transform.png",
       "interstitialImageLandscape": "interstitials/landscape/hero-transform.png",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "hair-challenge",
@@ -196,7 +196,7 @@
       "bannerImage": "banners/rotate-rings.png",
       "interstitialImagePortrait": "interstitials/portrait/rotate-rings.png",
       "interstitialImageLandscape": "interstitials/landscape/rotate-rings.png",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "stunt-car",
@@ -207,7 +207,7 @@
       "bannerImage": "banners/stunt-car.png",
       "interstitialImagePortrait": "interstitials/portrait/stunt-car.png",
       "interstitialImageLandscape": "interstitials/landscape/stunt-car.png",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "fidget-toys",
@@ -218,7 +218,7 @@
       "bannerImage": "banners/fidget-toys.png",
       "interstitialImagePortrait": "interstitials/portrait/fidget-toys.png",
       "interstitialImageLandscape": "interstitials/landscape/fidget-toys.png",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "muscle-rush",
@@ -229,7 +229,7 @@
       "bannerImage": "banners/muscle-rush.png",
       "interstitialImagePortrait": "interstitials/portrait/muscle-rush.png",
       "interstitialImageLandscape": "interstitials/landscape/muscle-rush.png",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "zipline-rescue",
@@ -240,12 +240,12 @@
       "bannerImage": "banners/zipline-rescue.png",
       "interstitialImagePortrait": "interstitials/portrait/zipline-rescue.png",
       "interstitialImageLandscape": "interstitials/landscape/zipline-rescue.png",
-      "enabled": false
+      "enabled": true
     }
   ],
   "interstitials": [
     {
-      "order": 1,
+      "order": 22,
       "gameId": "paper-doll",
       "repeat": 2,
       "enabled": true
@@ -284,7 +284,7 @@
       "order": 7,
       "gameId": "asylum-horror",
       "repeat": 1,
-      "enabled": false
+      "enabled": true
     },
     {
       "order": 8,
@@ -296,19 +296,19 @@
       "order": 9,
       "gameId": "snake-rush",
       "repeat": 1,
-      "enabled": false
+      "enabled": true
     },
     {
       "order": 10,
       "gameId": "color-roll",
       "repeat": 1,
-      "enabled": false
+      "enabled": true
     },
     {
       "order": 11,
       "gameId": "brainrot-drop",
       "repeat": 1,
-      "enabled": false
+      "enabled": true
     },
     {
       "order": 12,
@@ -320,7 +320,7 @@
       "order": 13,
       "gameId": "pokey-ball",
       "repeat": 1,
-      "enabled": false
+      "enabled": true
     },
     {
       "order": 14,
@@ -332,7 +332,7 @@
       "order": 15,
       "gameId": "hero-transform",
       "repeat": 1,
-      "enabled": false
+      "enabled": true
     },
     {
       "order": 16,
@@ -350,31 +350,31 @@
       "order": 18,
       "gameId": "rotate-rings",
       "repeat": 1,
-      "enabled": false
+      "enabled": true
     },
     {
       "order": 19,
       "gameId": "stunt-car",
       "repeat": 1,
-      "enabled": false
+      "enabled": true
     },
     {
       "order": 20,
       "gameId": "fidget-toys",
       "repeat": 1,
-      "enabled": false
+      "enabled": true
     },
     {
       "order": 21,
       "gameId": "muscle-rush",
       "repeat": 1,
-      "enabled": false
+      "enabled": true
     },
     {
-      "order": 22,
+      "order": 1,
       "gameId": "zipline-rescue",
       "repeat": 1,
-      "enabled": false
+      "enabled": true
     }
   ]
 }
